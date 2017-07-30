@@ -11,6 +11,7 @@ The is the original sequential program.  It uses the timer
 from the OpenMP runtime library
 
 History: Written by Tim Mattson, 11/99.
+edited by Tan Chengsong, parallel program with padding 7/2017
 
 */
 #include <stdio.h>
